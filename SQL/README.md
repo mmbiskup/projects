@@ -1,6 +1,6 @@
 # DataCamp projects
 
-## > SQL - MOST POPULAR LANGUAGES in the world
+## > SQL - Most Popular Languages in the world
 
 SQL code contains filtering, MAX, COUNT function, correlated subqueries, CTE, joins, CASE, multilevel ordering with CASE, RANK window function.
 

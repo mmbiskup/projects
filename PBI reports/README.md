@@ -1,6 +1,6 @@
 # PBI report
 
-## Business Intelligence Reports created in Power BI.
+## Business Intelligence Reports created in Power BI
 
 ### > Orders and Financial data
 Report presenting Orders and Financial data, in time periods: Daily, MTD, QTD, YTD. 

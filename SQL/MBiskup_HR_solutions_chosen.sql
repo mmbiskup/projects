@@ -1,4 +1,8 @@
--- Here I present my solutions to the chosen SQL challenges
+/* ----------------------------------------------------
+Author: MBiskup
+Create date: Feb 2023
+Description: My solutions to the chosen SQL challenges
+----------------------------------------------------- */
 
 -- MEDIUM DIFFICULTY ---
 
@@ -25,7 +29,7 @@ ROW_NUMBER() OVER(ORDER BY LAT_N) AS row_number
 FROM station)
 
 SELECT 
-    CASE WHEN MAX(row_number)%2=0 THEN                         -- for even number of elements we need AVG of two middle elements
+    CASE WHEN MAX(row_number)%2=0 THEN                    -- for even number of elements we need AVG of two middle elements
         (SELECT CAST(ROUND(AVG(LAT_N),4) AS decimal(7,4)) FROM LAT_row_table 
         WHERE row_number = (SELECT CAST(MAX(row_number)/2.0 AS integer) FROM LAT_row_table) 
         OR row_number = (SELECT CAST(MAX(row_number)/2.0+1 AS integer) FROM LAT_row_table)

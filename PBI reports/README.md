@@ -3,9 +3,9 @@
 ## Business Intelligence Reports created in Power BI
 
 ### > Orders and Financial data
-A report presenting the Orders and Financial data, in time periods: Daily, MTD, QTD, YTD. 
+A report presenting the Orders and Financial data, in the selected time period: Daily, MTD, QTD, YTD. 
 
-For Orders, the previous year's data, i.e. LFL, LY, are included.
+For Orders, the previous year's data, i.e. LFL or LY (depending on slicer selection), are included.
 The absolute and percentage differences are calculated. 
 
 For Financial data, the differences between Actual/Forecast data and Budget are presented.
@@ -17,7 +17,7 @@ For Financial data, the differences between Actual/Forecast data and Budget are 
 
 ### > Profitability and Top 5
 
-A report presenting the Profitability of the company (Profit, Revenue, Cost of Sales, Average KPI's per unit),
+A report presenting the Profitability of the company (Profit, Revenue, Cost of Sales, Average KPIs per unit),
 
 as well as the Top 5 Manufacturers and Distributors by Revenue.
 

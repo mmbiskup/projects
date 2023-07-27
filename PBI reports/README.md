@@ -1,6 +1,6 @@
 # Business Intelligence course certificate
 
-![](./Certificate_2023-7_MB_FC%20Business%20Intelligence_ENG_png.png)
+![](Certificate_2023-7_MB_FC%20Business%20Intelligence_ENG_png-%20sm.png)
 
 # PBI reports
 

@@ -1,7 +1,3 @@
-# Business Intelligence course certificate
-
-![](Certificate_2023-7_MB_FC%20Business%20Intelligence_ENG_png-%20sm.png)
-
 # PBI reports
 
 ## Business Intelligence Reports created in Power BI
@@ -30,3 +26,10 @@ A map with Revenue by Country is included.
 **[See the interactive report](https://app.powerbi.com/view?r=eyJrIjoiYzg5NzMzMTgtMDkwNi00NTBkLWFlOWEtMTVhNjA5MWZmNTAwIiwidCI6IjA1NWNiMzg2LTFiM2MtNDkyZC05ZWI3LWRmZDFlZWE5Y2Q0MyIsImMiOjl9&embedImagePlaceholder=true&pageName=ReportSection)**
 
 ![](./Placeholder_MB_C3_Tkaninex_Sales%20and%20production.jpg)
+
+#
+
+
+# Business Intelligence course certificate
+
+![](./Certificate_2023-7_MB_FC%20Business%20Intelligence_ENG_png-v%20sm.png)

@@ -1,4 +1,8 @@
-# PBI report
+# Business Intelligence course certificate
+
+![](./Certificate_2023-7_MB_FC%20Business%20Intelligence_ENG_png.png)
+
+# PBI reports
 
 ## Business Intelligence Reports created in Power BI
 

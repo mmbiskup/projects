@@ -12,7 +12,7 @@ For Financial data, the differences between Actual/Forecast data and Budget are 
 
 **[See the interactive report](https://app.powerbi.com/view?r=eyJrIjoiM2UwZDRlZGEtNTkwZi00NWQ0LTg4ZGMtNWI0ZmQxZjBjYTdlIiwidCI6IjA1NWNiMzg2LTFiM2MtNDkyZC05ZWI3LWRmZDFlZWE5Y2Q0MyIsImMiOjl9&embedImagePlaceholder=true&pageName=ReportSectionc69c1aff8415c7d771e0 )**
 
-![](./Placeholder_MB_C5_Orders%20and%20Financials_portfolio.jpg)
+![](./Placeholder_MB_C5_Orders%20and%20Financials.jpg)
 
 
 ### > Profitability and Top 5
